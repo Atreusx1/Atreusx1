@@ -5,7 +5,7 @@ Hey there! 👋 I’m **Anish Kadam** — a blockchain dev, JavaScript wizard-in
 If you're into smart contracts, Web3 magic, and the occasional coffee-fueled all-nighter, you're in the right place.
 
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atreusx1&show_icons=true&locale=en" alt="atreusx1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atreusx1&show_icons=true&theme=dark&locale=en" alt="atreusx1" /></p>
 ---
 
 ## 🚀 Live Demo
