@@ -5,7 +5,15 @@ Hey there! 👋 Welcome to my portfolio. I’m **Anish Kadam** — a blockchain 
 If you're looking for someone who lives and breathes smart contracts, Web3 magic, and the occasional late-night coffee-fueled deployment, you're in the right place.
 
 ---
+## 🚀 Live Demo
 
+Check out my portfolio website hosted on Vercel:
+
+🌐 [anishk-portfolio.vercel.app](https://anishk-portfolio.vercel.app/)
+
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel&logoColor=white)
+
+---
 ## 🚀 About Me
 
 ### 👨‍💻 Who Am I?
