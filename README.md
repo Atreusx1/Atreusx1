@@ -55,11 +55,14 @@ I design UIs, build dApps, write smart contracts, break stuff, fix it (sometimes
 ## 📫 Let’s Talk
 
 - 📧 [anishkadam92@gmail.com](mailto:anishkadam92@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/anish-defi/)  
 - 🧑‍💻 [GitHub](https://github.com/Atreusx1)
 
 P.S. If I don’t reply, I’m probably debugging a “quick” bug since yesterday.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anish-defi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-defi" height="30" width="40" /></a>
+</p>
 ---
 
 ## 🎭 Bonus Joke  
