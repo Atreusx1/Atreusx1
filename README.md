@@ -115,6 +115,7 @@ This site is a work in progress (like most of my life). If something breaks, it'
 - Or a feature, not a bug 😉
 
 ---
-## _ I might be boasting a little... but hey, confidence counts, right?_
+## *Disclaimer: I might be boasting a little... but hey, confidence counts, right?*
+
 
 Thanks for stopping by! 🙌
