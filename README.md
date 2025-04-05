@@ -12,7 +12,7 @@ If you're into smart contracts, Web3 magic, and the occasional coffee-fueled all
 ---
 [![](https://visitcount.itsvg.in/api?id=Atreusx1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 
 ## 🚀 Live Demo
@@ -64,29 +64,10 @@ I design UIs, build dApps, write smart contracts, break stuff, fix it (sometimes
 ---
 
 ## 📫 Let’s Talk
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-defi) 
-- 📧 [anishkadam92@gmail.com](mailto:anishkadam92@gmail.com)  
-- 🧑‍💻 [GitHub](https://github.com/Atreusx1)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-defi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishkadam92@gmail.com) 
 
 P.S. If I don’t reply, I’m probably debugging a “quick” bug since yesterday.
-
-
-
----
-
-## 🎭 Bonus Joke  
-
-*Vitalik created Ethereum to decentralize the world.*  
-*Charles wanted to centralize the philosophy behind it.*  
-**So Vitalik did the most decentralized thing possible…**  
-> He **forked Charles out like expired code.**
-
-Now one runs **Ethereum** — bloated, overhyped, but alive.  
-The other runs **Cardano** — pristine, peer-reviewed,  
-> **...and used mostly by YouTubers selling hopium.** 💀
-
-*Some say if you run a full Cardano node backwards under a blood moon,  
-it still won’t have working smart contracts.* 🫠
 
 ---
 
