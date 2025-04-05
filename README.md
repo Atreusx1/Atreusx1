@@ -10,10 +10,6 @@ If you're into smart contracts, Web3 magic, and the occasional coffee-fueled all
 ![](https://nirzak-streak-stats.vercel.app/?user=Atreusx1&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atreusx1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
 
 ## 🚀 Live Demo
 
