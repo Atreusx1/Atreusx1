@@ -18,7 +18,7 @@ If you're looking for someone who lives and breathes smart contracts, Web3 magic
 
 ### 👨‍💻 Who Am I?
 
-I’m a Computer Science graduate with a Master’s in Blockchain Technology. Currently building cool stuff at **TecMetaverse**, where I play around with Solana, MONAD, MERN, and more buzzwords than I can keep track of. I love turning complex ideas into sleek, functional applications — even if I break a few things along the way (don’t worry, I fix them. Eventually).
+I’m a Computer Science graduate with a Master’s in Blockchain Technology. Currently building cool stuff at **TecMetaverse**, where I play around with Ethereum L1 & L2's Solana, MERN, and more buzzwords than I can keep track of. I love turning complex ideas into sleek, functional applications — even if I break a few things along the way (don’t worry, I fix them. Eventually).
 
 I also live with a fluffy co-developer — my doggo 🐶. He’s great at moral support, not so much at debugging.
 
@@ -125,5 +125,16 @@ This site is a work in progress (like most of my life). If something breaks, it'
 ---
 ## *Disclaimer: I might be boasting a little... but hey, confidence counts, right?*
 
+---
+
+### 🎭 Bonus Joke  
+*Vitalik created Ethereum to decentralize the world.*  
+*Charles wanted to centralize the philosophy behind it.*  
+**So Vitalik did the most decentralized thing possible…**  
+> He **forked Charles out like expired code.**
+
+Now one runs **Ethereum** — bloated, overhyped, but alive and kicking.  
+The other runs **Cardano** — pristine, peer-reviewed,  
+> **...and mostly used by academics and YouTubers peddling hopium.** 💀
 
 Thanks for stopping by! 🙌
