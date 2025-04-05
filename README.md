@@ -1,4 +1,4 @@
-# 🌟 Anishk's Portfolio Website 🌟
+# 🌟 Welcome to Anishk's GIT Page 🌟
 
 Hey there! 👋 I’m **Anish Kadam** — a blockchain dev, JavaScript wizard-in-training, and part-time debugger of bugs (that I probably created).
 
