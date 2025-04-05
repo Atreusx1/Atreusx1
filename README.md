@@ -27,7 +27,7 @@ Experience the magic (or chaos) of my portfolio:
 ## 👨‍💻 About Me
 
 - Master’s in Blockchain Tech  
-- Dev at **TecMetaverse**  
+- Blockchain Developer at **TecMetaverse**  
 - Fluent in Solidity, JS, MERN, Ethereum, Solana, and sarcasm  
 - I live with a supportive co-dev — my doggo 🐶
 
