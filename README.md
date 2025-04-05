@@ -31,7 +31,7 @@ Experience the magic (or chaos) of my portfolio:
 - Fluent in Solidity, JS, MERN, Ethereum, Solana, and sarcasm  
 - I live with a supportive co-dev — my doggo 🐶
 
-I design UIs, build dApps, write smart contracts, break stuff, fix it (sometimes), and drink way too much coffee.
+I create Full Stack WebApps, build dApps, write smart contracts, break stuff, fix it (sometimes), and drink way too much coffee.
 
 ---
 
