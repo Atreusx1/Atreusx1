@@ -7,9 +7,9 @@ If you're looking for someone who lives and breathes smart contracts, Web3 magic
 ---
 > 🌐 Experience the magic of my portfolio live on **Vercel**. It’s pixel-perfect (most of the time) and runs smoother than my last cup of coffee.
 
-###[🔗 Visit ](https://anishk-portfolio.vercel.app/)  
+### [🔗 Visit ](https://anishk-portfolio.vercel.app/)  
 
-###![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel&logoColor=white)
+### ![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel&logoColor=white)
 
 
 
