@@ -56,10 +56,10 @@ I create Full Stack WebApps, build dApps, write smart contracts, break stuff, fi
 *   🛒 **The Market 360 (WIP)** — MERN dropshipping & affiliate marketing hub ([Live](https://market-360-frontend-zeta.vercel.app/))
 *   🔒 **zkSNARK Transaction System (WIP)** — Private transactions on Substrate using Circom/Rust ([Code](https://github.com/Atreusx1/ZKSnark-SoloChain))
 *   🌸 **Seasonal Portfolio Website** — Interactive portfolio w/ dynamic Three.js seasonal themes ([Live](https://anishk-portfolio.vercel.app/) | [Code](https://github.com/Atreusx1/My-Portfolio.git))
-*   🛠️ **React Build Optimization Toolkit** — Node.js scripts to automate & enhance React build performance ([Code](https://github.com/your-repo-link))  *(Remember to update link)*
+*   🛠️ **React Build Optimization Toolkit** — Node.js scripts to automate & enhance React build performance ([Code](https://github.com/Atreusx1/React-Prod-Scripts))  
 *   🗳️ **Decentralized Voting DApp** — Transparent & immutable blockchain voting w/ Next.js/Solidity ([Code](https://github.com/Atreusx1/Voting-Dapp.git)) *(Not Live Yet)*
 *   ✍️ **Decentralized Blog DApp (WIP)** — Censorship-resistant blogging platform using IPFS/Solidity *(Private Repo, Not Live Yet)*
-*   💌 **3D Love Letter Experience** — Interactive 3D message reveal experience using Three.js ([Code](https://github.com/Atreusx1/your-love-letter-repo)) *(Remember to update link, Not Live Yet)*
+*   💌 **3D Love Letter Experience** — Interactive 3D message reveal experience using Three.js ([Code](https://github.com/Atreusx1/Love-letter)) ([Live](https://love-letter-black.vercel.app))
 
 ---
 
