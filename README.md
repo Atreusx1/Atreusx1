@@ -50,12 +50,16 @@ I create Full Stack WebApps, build dApps, write smart contracts, break stuff, fi
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 ## 🔥 Projects
 
-- **🗳️ Blockchain Voting dApp** — Secure & transparent  
-- **🖼️ NFT Marketplace** — Mint, buy, sell without burning the apes  
-- **🧪 Secret Project** — Might be the next big thing. Or a fancier to-do list.
+*   🏠 **Knights Fin Real Estate** — Dynamic real estate platform w/ React, Node.js & 3D views ([Live](https://knightsfinestates.com/))
+*   🛒 **The Market 360 (WIP)** — MERN dropshipping & affiliate marketing hub ([Live](https://market-360-frontend-zeta.vercel.app/))
+*   🔒 **zkSNARK Transaction System (WIP)** — Private transactions on Substrate using Circom/Rust ([Code](https://github.com/Atreusx1/ZKSnark-SoloChain))
+*   🌸 **Seasonal Portfolio Website** — Interactive portfolio w/ dynamic Three.js seasonal themes ([Live](https://anishk-portfolio.vercel.app/) | [Code](https://github.com/Atreusx1/My-Portfolio.git))
+*   🛠️ **React Build Optimization Toolkit** — Node.js scripts to automate & enhance React build performance ([Code](https://github.com/your-repo-link))  *(Remember to update link)*
+*   🗳️ **Decentralized Voting DApp** — Transparent & immutable blockchain voting w/ Next.js/Solidity ([Code](https://github.com/Atreusx1/Voting-Dapp.git)) *(Not Live Yet)*
+*   ✍️ **Decentralized Blog DApp (WIP)** — Censorship-resistant blogging platform using IPFS/Solidity *(Private Repo, Not Live Yet)*
+*   💌 **3D Love Letter Experience** — Interactive 3D message reveal experience using Three.js ([Code](https://github.com/Atreusx1/your-love-letter-repo)) *(Remember to update link, Not Live Yet)*
 
 ---
 
