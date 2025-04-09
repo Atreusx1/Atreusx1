@@ -42,8 +42,7 @@ I create Full Stack WebApps, build dApps, write smart contracts, break stuff, fi
 **Optimization:** Custom React prod scripts  
 **Bonus:** I can adapt to any React-style framework like a shapeshifter.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atreusx1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atreusx1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=php)
 ---
 
 # 💻 Tech Stack:
